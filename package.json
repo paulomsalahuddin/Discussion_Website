@@ -1,0 +1,19 @@
+{
+  "name": "discussio_website",
+  "version": "1.0.0",
+  "description": "Discussion Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharonp10/Discussion_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharonp10/Discussion_Website/issues"
+  },
+  "homepage": "https://github.com/aharonp10/Discussion_Website#readme"
+}
