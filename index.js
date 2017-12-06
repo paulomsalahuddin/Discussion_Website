@@ -20,7 +20,7 @@ app.get('/', function(req,res) {
 // app.set('view engine', 'handlebars');
 
 // const blogData = require('./blog_data.json');
-
+const mysql = require('mysql');
 const db = mysql.createConnection({
     host: process.env.DB_HOST,
     port: 3306,

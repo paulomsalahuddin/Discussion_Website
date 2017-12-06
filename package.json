@@ -14,10 +14,12 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aharonp10/Discussion_Website/issues"
+    "url": "https://github.com/aharonp10/Discussion_Website/issues",
+    "mysql": "^2.15.0"
   },
   "homepage": "https://github.com/aharonp10/Discussion_Website#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
   }
 }
